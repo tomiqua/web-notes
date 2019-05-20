@@ -1,0 +1,12 @@
+{
+  "name": "downloads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "in-class_menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
